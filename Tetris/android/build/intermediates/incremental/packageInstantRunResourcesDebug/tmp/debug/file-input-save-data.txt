@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Aug 10 17:12:56 SAST 2018
+1.base=/home/g/gmlron001/Downloads/Tetris/Tetris/android/build/intermediates/assets/debug
+2.path=Hs.txt
+0.baseType=DIRECTORY
+2.base=/home/g/gmlron001/Downloads/Tetris/Tetris/android/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=tetris.jpg
+0.set=ASSET
+0.base=/home/g/gmlron001/Downloads/Tetris/Tetris/android/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=badlogic.jpg
